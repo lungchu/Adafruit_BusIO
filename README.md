@@ -1,8 +1,6 @@
-# Adafruit Bus IO Library [![Build Status](https://github.com/adafruit/Adafruit_BusIO/workflows/Arduino%20Library%20CI/badge.svg)](https://github.com/adafruit/Adafruit_BusIO/actions)
-
-
-This is a helper libary to abstract away I2C & SPI transactions and registers 
-
-Adafruit invests time and resources providing this open source code, please support Adafruit and open-source hardware by purchasing products from Adafruit!
-
-MIT license, all text above must be included in any redistribution
+# Adafruit Bus IO Libraryl with support to Linkit 7697
+## Purpose
+Making Adafruit Bus IO Library also support Linkit 7697 chip
+### Features
+- This project facilitate Adafruit Bus IO Library compatitable to Linkit 7697 as well.
+- This project is remodified from the original [Adafruit Bus IO Library](https://github.com/adafruit/Adafruit_BusIO), therefore it also supports all chips supported by the origanal one.
